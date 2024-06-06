@@ -18,15 +18,14 @@ def instruction():
 
 **** Instructions ****
 For each round of the game, you win points by answering questions correctly.  
-The winner of the round is the one who gets 10 points.
 
-If you win the round, then your score will increase by the 
-number of points that you earned. If you answer a hard question correctly
-you will get double the points,
+If you are correct, then your score will increase by the 
+number of points that you earned. If you answer a hard question correctly you will get
+double the points,
 
  If you lose the round, then you don't get any points.
 
- Your goal is to try to get to the target score.
+ This quiz grades you based on points at the end.
 
  Good luck.   
 
