@@ -18,7 +18,7 @@ def instruction():
 
 **** Instructions ****
 For each round of the game, you win points by answering questions correctly.  
-You must use captial letter in each word.
+
 If you are correct, then your score will increase by the 
 number of points that you earned. If you answer a hard question correctly you will get
 double the points,
